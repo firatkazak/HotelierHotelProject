@@ -1,2 +1,2 @@
 # TraversalHotelProject
- ASP.Net Core 5.0 Traversal Hotel Project
+ ASP.Net Core 7.0 Traversal Hotel Project
