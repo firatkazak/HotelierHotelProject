@@ -1,0 +1,8 @@
+﻿namespace HotelierProject.WebUI.Dtos.AppUserDto
+{
+    public class ResultAppUserDto
+    {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+    }
+}
