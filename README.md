@@ -1,2 +1,2 @@
-# TraversalHotelProject
- ASP.Net Core 7.0 Traversal Hotel Project
+# HotelierHotelProject
+ ASP.Net Core 7.0 Hotelier Hotel Project
